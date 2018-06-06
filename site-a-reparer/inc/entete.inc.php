@@ -5,7 +5,7 @@
     <!DOCTYPE html><html lang="fr">
     <head><title><?php echo $title; ?></title>
           <meta charset='UTF-8' />
-          <link href="style.css" rel="stylesheet" type="text/css" />
+          <link href="css/style.css" rel="stylesheet" type="text/css" />
     </head>
     <body><h1><?php echo $title; ?></h1>
           <nav><a href="home.php" class="<?php if(!$actif){echo 'actif'; } ?>">
