@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /connexion.inc.php
+Disallow: /entete.inc.php
+Disallow: /form-question.inc.php
+Disallow: /form-question-recup.inc.php
+Disallow: /question-insert.inc.php
+Disallow: /question-liste.inc.php
+Sitemap: http://www.controle083.epizy.com/sitemap.xml
