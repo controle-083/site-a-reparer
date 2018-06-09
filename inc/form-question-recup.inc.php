@@ -9,3 +9,4 @@
     if(isset($_GET['question_texte'])){
         $question_texte=(string) $_GET['question_texte'];
     } else {$question_texte=""; }
+?>

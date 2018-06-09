@@ -13,14 +13,14 @@
            <a href="https://infinityfree.net/" target="_blanck" >Inscription InfinityFree</a></p>
   </section>
   <section><h2>Informations sur la page question.php</h2>
-           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 442 ms</p>
-           <p><strong>Temps lié hébergeur (ms) : </strong> 	176 ms</p>
-           <p><strong>Temps lié image (ms) : </strong> 88 ms</p>
-           <p><strong>Temps lié CSS (ms) : </strong> 88 ms</p>
-           <p><strong>Temps lié JS (ms) : </strong> 88 ms</p>
+           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 676 ms</p>
+           <p><strong>Temps lié hébergeur (ms) : </strong> 	364 ms</p>
+           <p><strong>Temps lié image (ms) : </strong> 79 ms</p>
+           <p><strong>Temps lié CSS (ms) : </strong> 78 ms</p>
+           <p><strong>Temps lié JS (ms) : </strong> 155 ms</p>
            <p><strong>Adresse IP d'hébergement de la page question.php 
            (http://www.mon-ip.com/adresse-ip-site-internet.php) : </strong> 185.27.134.218</p>
-           <p><strong>Nom du serveur d'hébergement de la page question.php : </strong> ns1.byet.org</p>
+           <p><strong>Nom du serveur d'hébergement de la page question.php : </strong> ns1.epizy.com</p>
   </section>
   <section><h2>Complément d'information</h2>
            <p><strong>Une question complémentaire ? </strong> 
