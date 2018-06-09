@@ -18,7 +18,7 @@
   <section><?php include("inc/question-liste.inc.php"); ?>
   </section>
 
-  <footer>Copyright P.BOUQUET</footer>
+  <footer>Copyright A.OUBRAHIM</footer>
 
 </body>
 </html>
